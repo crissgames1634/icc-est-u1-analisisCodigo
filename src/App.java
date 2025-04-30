@@ -1,5 +1,9 @@
 public class App {
     public static void main(String[] args) {
+        Benchmarking benchmarking = new Benchmarking();
+    }
+}
+    /*public static void main(String[] args) {
 
         MetodosOrdenamiento ordenador = new MetodosOrdenamiento();
         int[] arregloBurbuja = { 34, 2, 10, 6, 7, 5, 1, 15 };
@@ -79,4 +83,4 @@ public class App {
         // java.util.Arrays.toString(arregloInsercionOrdenado3));
 
     }
-}
+}*/
